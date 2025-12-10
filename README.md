@@ -1,8 +1,8 @@
 # 🌍 AI Travel Planner - Personalized Trip Itinerary Generator
 
-![GitHub language count](https://img.shields.io/github/languages/count/YOUR_USERNAME/YOUR_REPOSITORY_NAME?style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/YOUR_USERNAME/YOUR_REPOSITORY_NAME?style=flat-square)
-![Streamlit App Status](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
+![GitHub language count](https://img.shields.io/github/languages/count/lailahamada/AI_Trip_Planner_Using_LLM?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/lailahamada/AI_Trip_Planner_Using_LLM?style=flat-square)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aitripplannerusingllm-wdkhgcdfs6pieqyha8gzcm.streamlit.app/)
 
 This is an interactive web application built using **Streamlit** and the **Groq API** to generate detailed, daily travel itineraries based on user inputs such as destination, dates, budget, and travel style. The application leverages large language models (LLMs) to create comprehensive, customized trip plans instantly.
 
