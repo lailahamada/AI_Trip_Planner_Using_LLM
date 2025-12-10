@@ -5,13 +5,8 @@
 
 This is an interactive web application built using **Streamlit** and the **Groq API** to generate detailed, daily travel itineraries based on user inputs such as destination, dates, budget, and travel style. The application leverages large language models (LLMs) to create comprehensive, customized trip plans instantly.
 ---
-## 🚀 Live Demo
 
-You can access the deployed application here:  
-[**Open AI Travel Planner on Streamlit Cloud**](https://aitripplannerusingllm-wdkhgcdfs6pieqyha8gzcm.streamlit.app/)
-
-
-## 🖼️ Screenshot
+## 🖼️ Application Interface
 
 Below is a screenshot of the application interface:
 
@@ -115,4 +110,9 @@ streamlit run AI_Trip_Planner.py
 
 4. **Export Functionality:**
    * Provide options to export the final plan as PDF or `.ics` calendar files.
+---
+## 🚀 Live Demo
+
+You can access the deployed application here:  
+[**Open AI Travel Planner on Streamlit Cloud**](https://aitripplannerusingllm-wdkhgcdfs6pieqyha8gzcm.streamlit.app/)
 
