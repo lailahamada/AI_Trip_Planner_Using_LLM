@@ -1,6 +1,5 @@
 # 🌍 AI Travel Planner - Personalized Trip Itinerary Generator
 
-![GitHub language count](https://img.shields.io/github/languages/count/lailahamada/AI_Trip_Planner_Using_LLM?style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/lailahamada/AI_Trip_Planner_Using_LLM?style=flat-square)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aitripplannerusingllm-wdkhgcdfs6pieqyha8gzcm.streamlit.app/)
 
