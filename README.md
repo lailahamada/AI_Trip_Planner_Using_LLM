@@ -81,7 +81,7 @@ GROQ_API_KEY = "your-actual-groq-api-key-starting-with-gsk_"
 ## 🏃 How to Run Locally
 
 ```bash
-streamlit run AI_Trip.py
+streamlit run AI_Trip_Planner.py
 ```
 
 ---
@@ -112,6 +112,9 @@ You can access the deployed application here:
 [**Open AI Travel Planner on Streamlit Cloud**](https://aitripplannerusingllm-wdkhgcdfs6pieqyha8gzcm.streamlit.app/)
 
 
-## 📸 Demo Video / Screenshots
+## 🖼️ Screenshot
 
-Demo section will be added later.
+Below is a screenshot of the application interface:
+
+![App Screenshot](Trip_Planner.jpg)
+
